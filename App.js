@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import TypeWriter from 'react-native-typewriter'
 import { Animated,View, Text ,Image} from 'react-native'
 import * as Animatable from 'react-native-animatable';
 
